@@ -1,11 +1,10 @@
 ---
 title: "Homework 2"
-author: "[Insert your name here]{style='background-color: yellow;'}"
+author: "[Ann DeFrancesco]{style='background-color: yellow;'}"
 toc: true
 title-block-banner: true
 title-block-style: default
 format: html
-# ]format: pdf
 editor: 
   markdown: 
     wrap: 72
